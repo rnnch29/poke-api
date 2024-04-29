@@ -1,0 +1,22 @@
+export const pokemonTypes = {
+    normal: '#CCCCCC',
+    fighting: '#FF9980',
+    flying: '#9999FF',
+    poison: '#CC66CC',
+    ground: '#FFCC66',
+    rock: '#FFCC33',
+    bug: '#66CC66',
+    ghost: '#9966CC',
+    steel: '#CCCCCC',
+    fire: '#FF9933',
+    water: '#3399FF',
+    grass: '#66CC99',
+    electric: '#FFCC00',
+    psychic: '#FF6699',
+    ice: '#66FFFF',
+    dragon: '#9966FF',
+    dark: '#999966',
+    fairy: '#FF99CC',
+    unknown: '#66CC99',
+    shadow: '#999999'
+}
