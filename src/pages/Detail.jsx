@@ -22,7 +22,7 @@ function Detail() {
 
   useEffect(() => {
     fetchPokeDetail();
-  }, []);
+  }, [pokemonID]);
 
   const goBack = () => {
     navigate('/');
